@@ -1,7 +1,7 @@
-let taskInput = document.getElementById("taskInput");
-let output = document.getElementById("output");
-let addButton = document.getElementById("addButton");
-let arrTask = [];
+const taskInput = document.getElementById("taskInput");
+const output = document.getElementById("output");
+const addButton = document.getElementById("addButton");
+const arrTask = [];
 
 function forOutput() {
   if (
