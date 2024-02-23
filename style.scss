@@ -1,0 +1,21 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.mainSection {
+    width: 100%;
+    padding: 20px;
+    margin: auto;
+    background-color: rgb(219, 201, 245);
+
+}
+
+.taskInput {
+    width: 60%;
+    height: 5rem;
+    font-size: 2rem;
+    padding: 20px;
+    border: none;
+}
